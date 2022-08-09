@@ -1,0 +1,12 @@
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/bin/Debug/net6.0/BlazorForWeb.Shared.deps.json
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/bin/Debug/net6.0/BlazorForWeb.Shared.dll
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/bin/Debug/net6.0/BlazorForWeb.Shared.pdb
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/obj/Debug/net6.0/BlazorForWeb.Shared.csproj.AssemblyReference.cache
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/obj/Debug/net6.0/BlazorForWeb.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/obj/Debug/net6.0/BlazorForWeb.Shared.AssemblyInfoInputs.cache
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/obj/Debug/net6.0/BlazorForWeb.Shared.AssemblyInfo.cs
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/obj/Debug/net6.0/BlazorForWeb.Shared.csproj.CoreCompileInputs.cache
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/obj/Debug/net6.0/BlazorForWeb.Shared.dll
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/obj/Debug/net6.0/refint/BlazorForWeb.Shared.dll
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/obj/Debug/net6.0/BlazorForWeb.Shared.pdb
+/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Shared/obj/Debug/net6.0/ref/BlazorForWeb.Shared.dll

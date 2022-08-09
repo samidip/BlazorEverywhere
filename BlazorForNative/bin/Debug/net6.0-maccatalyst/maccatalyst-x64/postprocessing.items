@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="BlazorForNative.app/Contents/MacOS/BlazorForNative">
+      <BCSymbolMapName>BlazorForNative.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>BlazorForNative.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>BlazorForNative.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/SamMBP/Projects/BlazorEverywhere/BlazorForNative</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

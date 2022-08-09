@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/BlazorSharedUI.csproj": {}
+  },
+  "projects": {
+    "/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/BlazorSharedUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/BlazorSharedUI.csproj",
+        "projectName": "BlazorSharedUI",
+        "projectPath": "/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/BlazorSharedUI.csproj",
+        "packagesPath": "/Users/SamMBP/.nuget/packages/",
+        "outputPath": "/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/SamMBP/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
